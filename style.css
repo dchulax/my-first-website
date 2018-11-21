@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  font-family: serif;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  background-color: #3281FF;
+  padding:10px 20px;
+  color: white;
+}
+ul{
+
+}
